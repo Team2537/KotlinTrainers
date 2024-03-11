@@ -9,4 +9,8 @@ fun main() {
     - Create a NULLABLE variable of type boolean, that is equal to null
     - Print the value of each variable
     */
+    var myVar = 5
+    val myConst = 10
+    println(myVar)
+    println(myConst)
 }
